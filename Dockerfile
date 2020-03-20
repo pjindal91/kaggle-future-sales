@@ -7,6 +7,7 @@ RUN  pip install  \
         matplotlib \ 
         xgboost \ 
         category-encoders \ 
+        catboost \
         seaborn
 
 EXPOSE 8888
