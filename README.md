@@ -4,6 +4,9 @@
 - **CatBoost** algorithm for regression
 - **Data Cleanup** by detecting and removing outliers
 - **Feature Engineering** - add new features using the existing data to boost the training data
+- Encoding **Categorical Data**
+- Handling **time series** data
+  
 ## How to run
 1. Build docker image
    
