@@ -1,7 +1,9 @@
 # Kaggle Predict Future Sales
 
 ## Topics Covered
-
+- **CatBoost** algorithm for regression
+- **Data Cleanup** by detecting and removing outliers
+- **Feature Engineering** - add new features using the existing data to boost the training data
 ## How to run
 1. Build docker image
    
